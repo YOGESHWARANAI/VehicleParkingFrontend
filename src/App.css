@@ -1,0 +1,9 @@
+.slot1,.slot2{
+    /* padding-top: 310px;
+    padding-left: 223px; */
+    display: grid;
+
+}
+.slots{
+    display: grid;
+}
